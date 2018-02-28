@@ -1,0 +1,62 @@
+body{
+    background: url("../images/background.jpg");
+    font-family: 'Roboto', sans-serif;
+}
+
+.header{
+    width: 100%;
+    color: rgb(230, 226, 250);
+    font-size: 70px;
+    font-weight: bolder;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    line-height: 100px;
+    background-color: rgba(15, 3, 18, 0.899);
+}
+
+.text{
+    width: 500px;
+    height: 300px;
+    margin: 30px;
+    padding: 30px;
+    font-size: 15px;
+    font-weight: bolder;
+    color: rgb(5, 5, 26);
+    background: rgba(241, 230, 232, 0.616);
+    font-family: 'Roboto', sans-serif;
+}
+.numbers{
+    width: 500px;
+    height: 300px;
+    margin: 30px;
+    padding: 30px;
+    font-size: 35px;
+    color: rgb(5, 5, 26);
+    background: rgba(241, 230, 232, 0.616);
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+.randomNum{
+    border: 1px rgb(5, 5, 26);
+}
+.buttons{
+    background: #FFFFFF;
+    padding: 0%;
+    text-align: center;
+}
+#image1{
+    height: 200px;
+    width: 200px;
+    }
+    #image2{
+        height: 200px;
+        width: 200px;
+        }
+        #image3{
+            height: 200px;
+            width: 200px;
+            }
+            #image4{
+                height: 200px;
+                width: 200px;
+                }

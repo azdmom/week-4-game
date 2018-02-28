@@ -1,0 +1,17 @@
+- onclick (when the button is clicked)
+    - the game will begin by a number being automatically generated in the randomNum div
+    - the number should be between 19 - 120
+    - give each of the crystals a random value between 1 - 12
+
+- with every click of each crystal, the totalScore goes up
+
+    if the totalScore = randomNum, then player has won
+        - wins++
+        - reset
+    else if totalScore > random number, player has lost
+        - loss++
+        - reset
+    once player has won or lost, game will reset:
+        - crystal values will reset
+        - randomNum will reset
+        -totalScore will reset to 0
